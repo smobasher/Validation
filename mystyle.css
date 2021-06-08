@@ -1,0 +1,33 @@
+input:focus {
+  background-color: aqua;
+}
+
+input:valid {
+  background-color: lime;
+}
+
+body{
+	margin-left: 5.25in;
+}
+
+
+footer {
+    clear: both;
+    position: relative;
+    height: 400px;
+    margin-top: -250px;
+	font-size: 20px;
+	margin-left: -5.05in;
+	
+}
+
+table, td {
+  border: 1px solid black;
+  width: 100%;
+
+ width:200px;
+ text-align:center;
+}
+
+
+
